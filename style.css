@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+
+h2{
+    background-color: aqua;
+}
+
+ol{
+    background-color: aquamarine;
+}
+.par {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSx-wyJux560QwH7cscODPxaAF9cvgk35PmksCMK_otVLtOU-aDw');
+}
+
+.jumbotron{
+    background-color: greenyellow !important;
+    background-image: url('http://cssslider.com/sliders/demo-5/data1/images/road_forest_trees_tree_trip_nature_leaves_season.jpg');
+    //background-repeat: no-repeat;
+}
+
